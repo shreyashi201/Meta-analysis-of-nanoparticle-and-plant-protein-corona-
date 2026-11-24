@@ -1,0 +1,47 @@
+# Dataset Description
+
+This folder contains the proteomic datasets used for the meta-analysis and machine learning-based investigation of nanoparticle–plant protein corona interactions.
+
+The dataset comprises 24 samples representing eight experimental groups, with three biological replicates per group. These groups represent different nanoparticle types, exposure conditions, and protein corona fractions.
+
+## Experimental Groups
+
+1. Fe3O4 Positive In vivo
+
+2. Fe3O4 Positive In vitro
+
+3. Fe3O4 Negative In vivo
+
+4. Fe3O4 Negative In vitro
+
+5. AuNP Green Hard Corona
+
+6. AuNP Chemical Hard Corona
+
+7. AuNP Green Soft Corona
+
+8. AuNP Chemical Soft Corona
+
+## Dataset Organization
+
+The proteomic data were used as input for machine learning models, including LightGBM, Random Forest, and Support Vector Machine (SVM).
+
+## The datasets support:
+
+- Comparative analysis of protein corona profiles.
+
+- Multiclass classification of experimental groups.
+
+- Evaluation of machine learning model performance.
+
+- Identification of proteins contributing to group discrimination.
+
+- Comparative interpretation of nanoparticle–protein corona interactions.
+
+## Data Format
+
+The datasets are provided in tabular format for computational analysis in R. Protein identifiers are retained to facilitate protein annotation and downstream biological interpretation.
+
+## Data Availability
+
+The datasets provided in this folder are associated with the research project Meta-Analysis of Nanoparticle and Plant Protein Corona.
