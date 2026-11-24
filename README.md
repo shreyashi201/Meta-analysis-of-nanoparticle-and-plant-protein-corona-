@@ -1,2 +1,2 @@
 # Meta-Analysis-and-Machine-Learning-of-Nanoparticle-Plant-Protein-Corona
-This repository contains all raw data and R codes files for the project entitled "Meta-Analysis of Nanoparticle and Plant protein corona"
+Computational analysis, meta-analysis, and machine learning of nanoparticle–plant protein corona interactions, including proteomic data processing, classification, and identification of discriminatory proteins.
